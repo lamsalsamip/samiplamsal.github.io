@@ -12,11 +12,15 @@ I believe in maintaining a balance between technical growth and physical discipl
 
 ### 🎓 Academic Foundation
 
-| Level | Institution | Result |
-| :--- | :--- | :--- |
-| **Grade 11** | Morgan International College | **3.75 GPA** |
-| **Grade 12** | Morgan International College | **3.38 GPA** |
-| **Faculty** | Science (Computer Science) | **Completed** |
+**Grade 11** — *Morgan International College*
+> **Result:** 3.75 GPA  
+> **Major:** Science (Computer Science)
+
+**Grade 12** — *Morgan International College*
+> **Result:** 3.38 GPA  
+> **Major:** Science (Computer Science)
+
+**Status:** High School Diploma Completed
 ---
 
 ### 💻 Technical Skills & Interests
