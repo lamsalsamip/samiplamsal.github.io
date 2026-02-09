@@ -10,17 +10,13 @@ I believe in maintaining a balance between technical growth and physical discipl
 
 ---
 
-### 🎓 Academic Foundation
+### 📚 Education
+**Morgan International College, Kathmandu**  
+*High School Diploma — Science Faculty*
 
-**Grade 11** — *Morgan International College*
-> **Result:** 3.75 GPA  
-> **Major:** Science (Computer Science)
-
-**Grade 12** — *Morgan International College*
-> **Result:** 3.38 GPA  
-> **Major:** Science (Computer Science)
-
-**Status:** High School Diploma Completed
+*   **Grade 11 GPA:** 3.75 / 4.0
+*   **Grade 12 GPA:** 3.38 / 4.0
+*   **Focus:** Computer Science, Mathematics, and Physics.
 ---
 
 ### 💻 Technical Skills & Interests
